@@ -13,7 +13,7 @@ const Biodata = () => {
     {/* <img src="/images/.jpg" alt="Description of the image" /> */}
     <img src="/images/66.jpg" alt="Description of the image" />
     <img src="/images/img22.jpg" alt="Description of the image" />
-        {/* <img src="/images/img33.jpg" alt="Description of the image" /> */}
+        <img src="/images/img33.jpg" alt="Description of the image" />
 
 
   
