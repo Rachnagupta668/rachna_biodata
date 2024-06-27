@@ -1,0 +1,23 @@
+/* MyComponent.css */
+
+.biodata {
+    display: flex;
+    flex-direction: column; /* Arrange children vertically */
+    align-items: center;    /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    /* height: 100vh;    */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    /* background-color: #fc7e7e; /* Set your desired background color * */
+  }
+  
+  img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  img:hover {
+    transform: scale(1.5); /* Increase scale on hover */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add shadow on hover */
+  }
+  
